@@ -1,5 +1,6 @@
-# maccard
-A shell utility for navigating and managing your Mac.
+# Maccard: A shell utility for navigating and managing your Mac.
+***
+![](https://imgur.com/uzUVcE9.png) 
 ***
 This is my WIP app (final name TBD, currently titled maccard) for macOS that is aimed to replace your dock and launcher(s). The idea is to have a one-stop-shop/replacement hub for your Menubar, Control Center, and Dock.
 
