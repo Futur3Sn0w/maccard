@@ -1,4 +1,4 @@
-# Maccard: A shell utility for navigating and managing your Mac.
+# Maccard: A new companion utility for your Mac.
 ***
 ![](https://imgur.com/uzUVcE9.png) 
 ***
