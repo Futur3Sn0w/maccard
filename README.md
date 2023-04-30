@@ -1,17 +1,28 @@
-# Maccard: A new companion utility for your Mac.
+# Maccard: A new companion for navigating your Mac.
 ***
 ![](https://imgur.com/uzUVcE9.png) 
 ***
-This is my WIP app (final name TBD, currently titled maccard) for macOS that is aimed to replace your dock and launcher(s). The idea is to have a one-stop-shop/replacement hub for your Menubar, Control Center, and Dock.
 
-There are three main sections; top, middle, and bottom. The top and middle sections work similar to the dock, holding a shortcut to your spotlight/command-bar app of choice, as well as your pinned apps. The pinned apps area holds up to 16 of your favorite apps, and running apps can be quit or (un)pinned by right-clicking them. 
-The mid-section holds your currently running apps, including windows from pinned apps. You can right-click a window at any time to pin it or quit the app. If applicable, window names from each app will appear below them.
-The bottom section works like your Menubar and Control Center, holding your widgets and toggles, which are small blocks of information that can be viewed at a glance, or quickly acted upon with a click.
+## What's Maccard?
+Maccard is companion/utility for macOS that is aimed to replace your dock and launcher(s). The idea is to have a one-stop-shop/replacement hub for your Menubar, Control Center, and Dock. The goal is to be able to use MacCard as a quick way to navigate and manage your Mac, all in one place. (I’ve personally found it really great when running fullscreen apps, since Maccard can appear on any desktop or application.)      
+<br>
+Here's a blueprint of Maccard's layout:   
+![](https://i.imgur.com/nm8xREt.png)
 
-Development of MacCard has been underway for only a couple of weeks, but we’ve already been able to get a ton of functionality that we were looking for in such an app. The goal is to be able to use MacCard as a quick way to navigate and manage your Mac, all in one place. 
-I’ve found it really great when running fullscreen apps, since MacCard can appear on any desktop or application. 
+## How do I use Maccard?
+Once you've installed Maccard, launch the app from your Applications folder. Two icons will appear:   
+- One in your macOS Dock:  
+![One in your macOS Dock](https://i.imgur.com/7abIm9U.png)
+- And one in your Menubar:  
+![And one in your Menubar](https://i.imgur.com/7M8IZ3k.png)  
+<br>
+<br>
 
-We’re still fairly early in the development process, so it may take some time for features you want to come to light. However, I want to hear from you all! When developing a solution like this, I really wanted to get as much input from Mac-specific users as possible to see what information and utility they would want to have. What would you want a shell utility such as this to show? If you have any suggestions, complaints, ideas, or otherwise, feel free to leave them below, or on any of my socials, which you can find below!
+Clicking on either will show or hide the main window:  
+![](https://i.imgur.com/BZp5ws9.png)
+
+## Community feedback
+I want to hear from you all! When developing a solution like this, I really wanted to get as much input from Mac-specific users as possible to see what information and utility they would want to have. What would you want a shell utility such as this to show? If you have any suggestions, complaints, ideas, or otherwise, feel free to leave them below, or on any of my socials, which you can find below!
 
 I’ll be posting updates with screenshots and extra info on my Twitter and Mastodon, both of which are on my website (links below). Additionally, the GitHub page will show less-frequent updates, but will have information pertaining to the app, and will serve to download beta releases of the app in the coming weeks!
 
