@@ -30,5 +30,5 @@ My homepage: https://futur3sn0w.me
 
 GitHub Page: https://github.com/Futur3Sn0w/maccard
 
-![Light-mode screenshot of MacCard's main interface](https://i.imgur.com/5YCEhZE.png)
-![Dark-mode screenshot of MacCard's main interface](https://i.imgur.com/hEtDzAK.png)
+![Light-mode screenshot of MacCard's main interface](https://i.imgur.com/8ptmTk6.png)
+![Dark-mode screenshot of MacCard's main interface](https://i.imgur.com/Nidehr0.png)
