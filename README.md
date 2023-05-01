@@ -18,7 +18,7 @@ Maccard has two modes:
  ![](https://i.imgur.com/vPyNBhG.png)  
  
 Here's a blueprint of Maccard's layout:   
-![](https://i.imgur.com/nm8xREt.png)
+![](https://i.imgur.com/CG71vgL.png)
 
 ## Activating Maccard
 Once you've installed Maccard, launch the app from your Applications folder. Two icons will appear:   
