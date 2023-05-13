@@ -5,7 +5,7 @@
 > **Returning visitors:** Check out the wiki for everything you need to know!
 
 ## What's Maccard?
-Maccard is companion/utility for macOS that is aimed to replace your dock and launcher(s). The idea is to have a one-stop-shop/replacement hub for your Menubar, Control Center, and Dock. The goal is to be able to use MacCard as a quick way to navigate and manage your Mac, all in one place. (I’ve personally found it really great when running fullscreen apps, since Maccard can appear on any desktop or application.)      
+Maccard is companion/utility for macOS that is aimed to replace your dock and launcher(s). The idea is to have a quick way to navigate and manage your Mac, all in one place. (I’ve personally found it really great when running fullscreen apps, since Maccard can appear on any desktop or application.)      
 
 ## What does Maccard look like?
 Maccard has two modes:
