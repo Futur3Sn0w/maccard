@@ -12,14 +12,13 @@ Maccard is companion/utility for macOS that is aimed to replace your dock and la
 - An active internet connection (initial setup/launch only)
 
 ## What does Maccard look like?
-Maccard has two modes:
-- Card mode:  
- ![](https://i.imgur.com/8ptmTk6.png)
- ![](https://i.imgur.com/Nidehr0.png)  
+Maccard has two layouts:
+- 'Card' layout:  
+ ![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/dd81e310-ab04-4f03-9374-fe2e2d5d8459)
  
-- Taskbar/Compact mode:  
- ![](https://i.imgur.com/pBQirdC.png)
- ![](https://i.imgur.com/vPyNBhG.png)  
+- Taskbar/Compact layout:  
+ ![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/b950a3c4-1ffc-483e-b8ae-9b020ae252d3)
+ ![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/39194965-b7c0-4367-a342-a41d04b43c25)
  
 <!-- Here's a blueprint of Maccard's layout:    -->
 <!-- ![](https://i.imgur.com/CG71vgL.png) -->
