@@ -1,11 +1,15 @@
 # Maccard: A new companion for navigating your Mac.
-***
-![](https://imgur.com/uzUVcE9.png) 
+![](https://github.com/Futur3Sn0w/maccard/assets/18166632/d2cec906-e474-43a1-a9cb-47f9173eaad2)
 ***
 > **Returning visitors:** Check out the wiki for everything you need to know!
 
 ## What's Maccard?
 Maccard is companion/utility for macOS that is aimed to replace your dock and launcher(s). The idea is to have a quick way to navigate and manage your Mac, all in one place. (I’ve personally found it really great when running fullscreen apps, since Maccard can appear on any desktop or application.)      
+
+## System Requirements
+- macOS 10.15 (Catalina) or later
+- ~250-300mb free disk space
+- An active internet connection (initial setup/launch only)
 
 ## What does Maccard look like?
 Maccard has two modes:
@@ -17,8 +21,8 @@ Maccard has two modes:
  ![](https://i.imgur.com/pBQirdC.png)
  ![](https://i.imgur.com/vPyNBhG.png)  
  
-Here's a blueprint of Maccard's layout:   
-![](https://i.imgur.com/CG71vgL.png)
+<!-- Here's a blueprint of Maccard's layout:    -->
+<!-- ![](https://i.imgur.com/CG71vgL.png) -->
 
 ## Activating Maccard
 Once you've installed Maccard, launch the app from your Applications folder. Two icons will appear:   
@@ -32,10 +36,12 @@ To show or hide the main window in card mode, you can either
 or 
 ### Use the systemwide keyboard shortcut (Ctrl+Space)
 
-## Community feedback
-I want to hear from you all! When developing a solution like this, I really wanted to get as much input from Mac-specific users as possible to see what information and utility they would want to have. What would you want a shell utility such as this to show? If you have any suggestions, complaints, ideas, or otherwise, feel free to leave them below, or on any of my socials, which you can find below!
+## Updating Maccard
+Maccard v0.4.1 introduces an in-app updater, which will check for updates, download the latest release (if available), and mount the update's DMG all without leaving the app.   
+![](https://github.com/Futur3Sn0w/maccard/assets/18166632/7fbeec6e-e5d6-4d99-919d-e5f37f0c8605)   
+If you want to install updates manually, you can download the latest update from Maccard's releases, and mount the DMG to install. 
 
-I’ll be posting updates with screenshots and extra info on my Twitter and Mastodon, both of which are on my website (links below). Additionally, the GitHub page will show less-frequent updates, but will have information pertaining to the app, and will serve to download beta releases of the app in the coming weeks!
+## Features and teasers
+I’ll be posting updates with screenshots and extra info on my Twitter, Mastodon, and Discord; all of which are on my website (links below). Additionally, the GitHub page will show less-frequent updates, but will have information pertaining to the app, and will serve to download beta releases of the app!
 
-My homepage: https://futur3sn0w.me  
-GitHub Page: https://github.com/Futur3Sn0w/maccard
+My homepage: https://futur3sn0w.me
