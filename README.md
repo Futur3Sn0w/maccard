@@ -35,8 +35,53 @@ To show or hide the main window in card mode, you can either
 or 
 ### Use the systemwide keyboard shortcut (Ctrl+Space)
 
+## Maccard Basics
+- In the Card layout, Maccard can appear and disappear as you please, with any of the activation methods above.
+- In the Taskbar layout, Maccard stays at the bottom of your screen, similar to the Windows taskbar. 
+- To change Maccard's settings, you can right-click the tray icon and click "Settings", or you can click the gear icon at the top (card layout) or left (taskbar layout).  
+![](https://github.com/Futur3Sn0w/maccard/assets/18166632/e9323f58-2c1e-4a19-993a-73b98c6c6844)
+
+## Search Section
+The first part of Maccard is it's search section, which hosts a handful of info and shortcuts, including:
+- OS information (unless you've chosen to hide it), which you can click to open System Info
+- Spotlight search, unless you're using a Spotlight alternative that replaces the Cmd+Space hotkey
+- Settings icon to open Maccard's settings applet
+
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/8798390d-7638-49a0-a620-b625e35b92e5)
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/4b505dbd-9f16-45c4-9542-187bb5769513)
+
+You can customize the search section from the "Search and Banner" tab in Settings.
+
+## 'Areas' Section
+Similar to macOS's Arc Browser (from The Browser Company), Maccard features different 'Areas' of your Mac that are accessible from the main window.  
+In Card mode, you can scroll horizontally in the apps region to view other Areas, including Locations, where you can drag folders and files into Maccard for quick access. In taskbar mode, you can swipe vertically to scroll through Areas.
+
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/c51a178d-17ad-46b9-88be-5025714e704c)
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/d937683d-e74c-4e14-bc4b-f3be32dcd175)
+
+## Widgets Section
+Maccard's widgets give you a quick glance at info of your Mac, including battery, system theme, and trash status.   
+In card mode, when collapsed, you can scroll horizontally through the available widgets, or click 'Expand' to display all widgets at once. In taskbar mode, widgets are displayed as icons at the right-end of the bar, where you can hover to reveal their information.   
+Most widgets can be clicked to perform actions, such as opening the trash, checking battery information, and changing the system theme respectively.
+
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/e5969a3a-331a-4d87-b61f-c3625c0a84c9)
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/35f816ee-b781-4c3e-a93e-0e3c01ca6a1a)
+
+## Media Section
+At the end/bottom of Maccard is your media controller. You can select from the available media players within Maccard's settings, or hide them altogether.  
+If a media app is selected, you can click the controller's icon to open the respective app. This will also hide the app from Maccard's applist to save space. By scrolling vertically, you can reveal track information, and system volume controls. In card mode, you have the option of expanding the media controller, so you don't have to scroll.  
+You also have the option of using the media contoller as 'keys', which essentially emulates the F7-F9 keys on a Mac, which correspond to the media controls. With this option selected, media information will not be displayed, but you can play/pause, skip, go back, and change volume.  
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/9ffb45d9-2c2c-4f84-85f2-5a80e5456954)
+![image](https://github.com/Futur3Sn0w/maccard/assets/18166632/4ff3d152-1bfd-4304-86fd-f6f0c3f7086c)
+
+## Maccard's Settings
+The settings applet of Maccard is laid out similar to the System Settings app in macOS Ventura, with tabs on the left, and the content of a selected tab on the right. Each option has subtext describing what the option does.  
+At the bottom of the sidebar, there's a button to toggle macOS's dock, which is helpful if you want to use Maccard to replace your dock.  
+Over the (admittedly short) development of Maccard, settings has evolved quite a bit into the state it is now, and it's possible it will change more in the future. That said, most things are in their final places, so you should be able to find things pretty easily.  
+![](https://github.com/Futur3Sn0w/maccard/assets/18166632/9f4f9c6c-9c36-4dcb-87df-392cdd362eab)
+
 ## Updating Maccard
-Maccard v0.4.1 introduces an in-app updater, which will check for updates, download the latest release (if available), and mount the update's DMG all without leaving the app.   
+Maccard v0.4.1 introduced the in-app updater, which can check for updates, download the latest release (if available), and mount the update's DMG all without leaving the app.   
 ![](https://github.com/Futur3Sn0w/maccard/assets/18166632/7fbeec6e-e5d6-4d99-919d-e5f37f0c8605)   
 If you want to install updates manually, you can download the latest update from Maccard's releases, and mount the DMG to install. 
 
