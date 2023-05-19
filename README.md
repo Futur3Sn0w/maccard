@@ -85,7 +85,13 @@ Maccard v0.4.1 introduced the in-app updater, which can check for updates, downl
 ![](https://github.com/Futur3Sn0w/maccard/assets/18166632/7fbeec6e-e5d6-4d99-919d-e5f37f0c8605)   
 If you want to install updates manually, you can download the latest update from Maccard's releases, and mount the DMG to install. 
 
+## Thanks!
+Maccard's development has been nothing short of a miracle, considering the team's relatively small knowledge of app developement. It was DEFINITELY a team effort, and could NOT have been done if not for the incredible beta testers in my **Futur3Sn0w's PC** Discord server (link below or in Maccard's About page), as well as the fine folks who contributed their work to Maccard.  
+A HUGE thanks goes out to the incredibly talented **Oviotti**, who crafted the beautiful application icons found within Maccard. Over 900 icons are included in the app-icon library, and they're all absolutely gorgeous! Check out Octavio's great work over on DeviantArt!  
+https://www.deviantart.com/oviotti
+
 ## Features and teasers
-I’ll be posting updates with screenshots and extra info on my Twitter, Mastodon, and Discord; all of which are on my website (links below). Additionally, the GitHub page will show less-frequent updates, but will have information pertaining to the app, and will serve to download beta releases of the app!
+I’ll be posting updates with screenshots and extra info on my Twitter, Mastodon, and Discord; all of which are on my website (links below). Additionally, the GitHub page will have information pertaining to the app, and will serve to download beta releases of the app!
 
 My homepage: https://futur3sn0w.me
+**Futur3Sn0w's PC** Discord server: https://discord.gg/8gQcnT3WZT
